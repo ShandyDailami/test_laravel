@@ -54,7 +54,7 @@
           </tr>
         @empty
       <div class="alert alert-danger">
-        Belum ada nih
+        Belum ada nih datanya
       </div>
     @endforelse
               </tbody>
